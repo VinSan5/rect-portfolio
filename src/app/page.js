@@ -70,11 +70,6 @@ export default function Home() {
               <br></br>
               <p className='text-start text-3xl mt-5 font-medium bg-neutral-900'>Análise e Desenvolvimento de Sistemas</p>
               <p className='text-start text-md italic font-light'>Universidade de Mogi das Cruzes | 4/4 (12/23)</p>
-              <br></br>
-              <p className='text-center text-3xl mt-20 font-medium bg-neutral-900'>Objetivos futuros</p>
-              <br></br>
-              <p className='text-start text-3xl mt-5 font-medium bg-neutral-900'>Pós em </p>
-              <p className='text-start text-md italic font-light'>Universidade de Mogi das Cruzes | 4/4 (12/23)</p>
             </div>
           </div>
 
